@@ -52,6 +52,9 @@ header:
   - title:      Sidebar
     url:        /page/sidebar-aside-test.html
 
+  - title:      Docs
+    url:        /docs//quick-start.html
+
 docs-en:
   - title:      Start
     children:
