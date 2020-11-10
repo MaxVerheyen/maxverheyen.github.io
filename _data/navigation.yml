@@ -49,11 +49,11 @@ header:
       # @end locale config
     url: /about.html
 
+  - title:      Test
+    url:        /about-test.html
+
   - title:      Sidebar
     url:        /page/sidebar-aside-test.html
-
-  - title:      Docs
-    url:        /docs//quick-start.html
 
 docs-en:
   - title:      Start
