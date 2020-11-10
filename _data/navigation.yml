@@ -52,8 +52,8 @@ header:
   - title:      Test
     url:        /test.html
 
-  - title:      Page - Sidebar (Aside)
-    url:        /docs/sidebar-aside.html
+  - title:      Sidebar
+    url:        /page/sidebar-aside-test.html
 
 docs-en:
   - title:      Start

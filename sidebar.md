@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Page - Sidebar (Aside)
-permalink: /docs/sidebar-aside.html
-key: docs-page-sidebar-aside
+permalink: /page/sidebar-aside-test.html
+key: page-sidebar-aside-test
 aside:
   toc: true
 sidebar:
