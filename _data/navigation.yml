@@ -56,7 +56,6 @@ header:
     url:        /docs/en/quick-start
 
 docs-en:
-
   - title:      Start
     children:
       - title:  Quick Start
