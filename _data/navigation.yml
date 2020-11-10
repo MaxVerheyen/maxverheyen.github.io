@@ -53,7 +53,7 @@ header:
     url:        /page/sidebar-aside.html
 
   - title:      Docs
-    url:        /docs/en/quick-start
+    url:        /docs/en/quick-start.html
 
 docs-en:
   - title:      Start
