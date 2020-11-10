@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Page - Sidebar (Aside)
-permalink: /page/sidebar-aside-test.html
-key: page-sidebar-aside-test
+permalink: /docs/sidebar-aside.html
+key: docs-page-sidebar-aside
 aside:
   toc: true
 sidebar:
   nav: docs-en
 ---
 
-A post with a left sidebar. TEST
+A page with a left sidebar.
 
 <!--more-->
 
