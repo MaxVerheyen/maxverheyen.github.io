@@ -50,7 +50,7 @@ header:
     url: /about.html
 
   - title:      Sidebar
-    url:        /page/sidebar-aside.html
+    url:        /page/sidebar-aside-test.html
 
   - title:      Docs
     url:        /docs/en/quick-start.html
